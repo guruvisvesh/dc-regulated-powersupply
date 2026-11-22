@@ -84,5 +84,5 @@ Full report available in `/docs` folder
 ---
 
 ## 👨‍💻 Author
-**Gurunikesh S**  
+**Guruvisvesh S A**  
 Electronics & Communication Engineering
